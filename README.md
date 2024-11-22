@@ -1,6 +1,8 @@
 # **ADHD_CPM**
 
-# **Example README File**
+## project 1: Connectome based predictive modeling
+Used more than 300 ADHD patients and controls and constructed a predictive linear model of ADHD symptoms (inattentiveness & hyperactivity) that takes each individual differences into account.
+
 
 ## **Project Title**
 
@@ -14,8 +16,4 @@ Project Title is a project that does something useful. It was created to solve a
 
 To install Project Title, follow these steps:
 
-1. Clone the repository: **`git clone https://github.com/username/project-title.git`**
-2. Navigate to the project directory: **`cd project-title`**
-3. Install dependencies: **`npm install`**
-4. Build the project: **`npm run build`**
-5. Start the project: **`npm start`**
+
